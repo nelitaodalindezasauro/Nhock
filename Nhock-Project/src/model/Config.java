@@ -8,5 +8,5 @@ public class Config {
 	public static final int TAMANHO = 20;
 
 	//velocidade de cada rodada em milisegundos
-	public static final int VELOCIDADE = 80;
+	public static final int VELOCIDADE = 8000;
 }

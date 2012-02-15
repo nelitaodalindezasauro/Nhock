@@ -95,6 +95,10 @@ public class Nhock {
 		if(this.addPonto){
 			Ponto novo = new Ponto(xLast, yLast);
 			this.corpo.add(novo);
+                        Ponto novo2 = new Ponto(xLast, yLast);
+			this.corpo.add(novo2);
+                        Ponto novo3 = new Ponto(xLast, yLast);
+			this.corpo.add(novo3);
 			this.addPonto = false;
 		}
 	}
