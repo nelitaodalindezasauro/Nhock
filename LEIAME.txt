@@ -1,4 +1,4 @@
-Nhock
+Nhock NELITO
 -------------
 Este Jogo foi desenvolvido para a disciplina de Programação Orientada a Objetos 2 do Curso Técnico em Informática do SENAI São José em Santa Catarina.
 
